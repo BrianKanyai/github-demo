@@ -1,0 +1,3 @@
+This is a notepage on how to use git 
+we are now working on cleaning data using git.
+This kshould be handy
